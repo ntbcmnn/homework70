@@ -1,0 +1,1 @@
+export const baseImg: string = 'https://photosnow.org/wp-content/uploads/2024/04/no-dp-mood-off_9.jpg';
