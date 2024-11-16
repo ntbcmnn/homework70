@@ -105,7 +105,6 @@ const Form: React.FC<Props> = ({
               name="image"
               value={form.image}
               onChange={onChange}
-              required
             />
           </div>
           <div className="w-50 d-flex flex-column">
